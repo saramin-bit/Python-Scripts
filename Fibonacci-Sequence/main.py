@@ -5,7 +5,7 @@ def fibonacci(max_value):
   a, b = 0, 1
   while a < max_value:
     print(a, end = " ")
-    a, b = b, a+b
+    a, b = b, a + b
 
 fibonacci(100)
 
