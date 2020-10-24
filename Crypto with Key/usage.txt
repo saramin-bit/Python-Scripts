@@ -1,0 +1,7 @@
+*---------------------------*
+* Console Crypter in Python *
+*---------------------------*
+Choose an option and press enter:
+-> 1 - Generate a new secret key
+-> 2 - Encrypt a message
+-> 3 - Decrypt a message
