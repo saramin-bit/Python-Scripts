@@ -1,4 +1,4 @@
-Instructions 
+
 
 
 This Script will help ease the laborious task of downloading data from Pascal Voc datasets used mainly in computer vision tasks.
