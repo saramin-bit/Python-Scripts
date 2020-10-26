@@ -16,7 +16,7 @@ Welcome Githubers! This is a place where you can find python scripts. You can co
 
 
 ### Contributors
-i would like to thank the following amazing people for contributing to this project 🎉🎉🎉
+I would like to thank the following amazing people for contributing to this project 🎉🎉🎉
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
