@@ -13,6 +13,7 @@ Welcome Githubers! This is a place where you can find python scripts. You can co
 - Star this repository
 - Wait for Pull Request to merge
 - Add your name to the contributors list
+- Add your project to the current projects
 - Celebrate, you've done!
 
 ### Current Projects [A-Z order]
