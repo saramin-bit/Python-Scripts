@@ -12,6 +12,7 @@ Welcome Githubers! This is a place where you can find python scripts. You can co
 - Create a pull request
 - Star this repository
 - Wait for Pull Request to merge
+- Add your name to the contributors list
 - Celebrate, you've done!
 
 
