@@ -50,6 +50,7 @@ Welcome Githubers! This is a place where you can find python scripts. You can co
 - [Random Encryption](/Random%20Encryption)
 - [Random Number Game](/Random%20Number%20Game)
 - [Random Password](/Random%20Password)
+- [Remove Duplicate Images](/Remove-Duplicate-Images)
 - [Rock Paper Scissor](/Rock-Paper-Scissor)
 - [Rot13](/Rot13)
 - [Simple Photo Editor](/Simple-Photo-Editor)
@@ -63,6 +64,7 @@ Welcome Githubers! This is a place where you can find python scripts. You can co
 - [UUIDv4 Generator](/UUIDv4-Generator)
 - [Web Scrapping](/Web-Scrapping)
 - [Whatsapp Bot](/Whatsapp-Bot)
+- [YouTube Downloader](/Youtube_Downloader)
 
 ### Contributors
 I would like to thank the following amazing people for contributing to this project 🎉🎉🎉
