@@ -16,7 +16,7 @@ Welcome Githubers! This is a place where you can find python scripts. You can co
 - Add your project to the current projects
 - Celebrate, you've done!
 
-### Current Projects [A-Z order] audiobook
+### Current Projects [A-Z order] 
 - [Alarm Clock](/Alarm-Clock) &nbsp;&nbsp; <img class="img" href="https://github.com/ozamed" height="20" width="20" style="border-radius:50%" alt="@ozamed" src="https://avatars3.githubusercontent.com/u/61123774?s=60&amp;u=ea4e72afe7094e06315948d8cb07adc3b6d6be17&amp;v=4" class=" avatar-user"> 
 - [Audio Book](/Audio-Book) &nbsp;&nbsp;<img href="https://github.com/mhdzumair" height="20" width="20" style="padding-bottom:20px" alt="@mhdzumair" src="https://avatars0.githubusercontent.com/u/44891939?s=60&amp;u=4b0983d2c614acd213f2648091b48a5744902dd1&amp;v=4" class=" avatar-user">
 - [Coin Flip](/Coin-Flip) &nbsp;&nbsp; <img href="https://github.com/Fonta22" height="20" width="20" alt="@Fonta22" src="https://avatars3.githubusercontent.com/u/61181201?s=60&amp;u=c34d0f10408f6ee5a97e9e1165495ce6ef0980e0&amp;v=4" class=" avatar-user">
