@@ -93,6 +93,7 @@ I would like to thank the following amazing people for contributing to this proj
 <td align="center"><a href="https://github.com/AhmadHerzallah"><img src="https://avatars3.githubusercontent.com/u/43403487?s=400&u=6a122f3085582afa0fae56156d0dc394eae48a90&v=4" width="100px;" alt=""/><br /><sub><b>Ahmad Herzallah</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/Aaliya7516"><img src="https://avatars1.githubusercontent.com/u/53328555?s=400&u=f77e8e79495f6905433da72c140953f321cfdce1&v=4" width="100px;" alt=""/><br /><sub><b>Aaliya Haque</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/Pandz18"><img src="https://avatars0.githubusercontent.com/u/58665834?s=400&u=eabe398d2e26def53a659354d2c27d222859babb&v=4" width="100px;" alt=""/><br /><sub><b>Pandz18</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/page-not-found"><img src="https://avatars2.githubusercontent.com/u/68801537?s=460&u=feeae8059576a5202c05dff48fd04c28d78f1bba&v=4" width="100px;" alt=""/><br /><sub><b>page-not-found</b></sub></a><br /></td>
 </tr>
 </table>
 
